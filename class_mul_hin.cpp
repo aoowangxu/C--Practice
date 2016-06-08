@@ -4,6 +4,7 @@
 	> Mail: 
 	> Created Time: Sat 09 Apr 2016 11:48:56 PM EDT
  ************************************************************************/
+ //Test the virtual table
 
 #include<iostream>
 using namespace std;
